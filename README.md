@@ -3,7 +3,10 @@
 This project provides a **machine learning model** to classify **linden tree leaves** as either **healthy** or **ill (diseased)**.  
 The model was trained and optimized using **[Edge Impulse](https://www.edgeimpulse.com/)** and exported as an **Arduino library**.
 
-The resulting model can run directly on **Arduino boards** that support TensorFlow Lite Micro.
+The resulting model can run directly on **Arduino boards** that support TensorFlow Lite Micro.  
+
+![til](https://github.com/rivitti01/HAEEAI/blob/main/demo-embeddedSystems.gif)
+
 
 ---
 
